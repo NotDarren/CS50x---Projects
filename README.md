@@ -1,4 +1,4 @@
-# CS50x---Projects
+# CS50x-Projects
 
 ## 📌 Overview
 This repository contains my solutions and projects for Harvard's CS50x course.  
