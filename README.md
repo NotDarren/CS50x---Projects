@@ -10,14 +10,21 @@ It includes both problem sets (psets) and the final project.
 - **Movies (SQL, Pset7)** → Complex queries on IMDb datasets [View Code](highlights/movies/movies.sql)  
 - **Finance (Flask, Pset9)** → Stock trading simulation web app [View Project](highlights/finance/)  
 
-## 📁 All Problem Sets (PSets)
-1)
 ## 🛠️ Technologies Used
 - C
 - Python
 - SQL
 - Flask
-- HTML/CSS  
+- HTML/CSS
+
+## 📁 All Problem Sets (Psets)
+Pset 1:
+- **Mario (C)** → making a pyramid with hash symbol [View Code](highlights/mario/mario.c)
+- **Cash (C)** → figures the minimun amaount of coins for change [View Code](hihglights/cash/cash.c)
+- **Credit (C)** → checks validity of a credit card [View Code](hihglights/credit/credit.c)
+
+Pset 2:
+- **Scrabble (C)** → Determines winner of short Scrabble-like game [View Code](highlights/scrabble/scrabble.c)
 
 ---
 ⭐ If you like this repo, give it a star!
