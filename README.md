@@ -9,7 +9,9 @@ It includes both problem sets (psets) and the final project.
 - **DNA (Python, Pset6)** → DNA profiler using substring matching [View Code](highlights/dna/dna.py)  
 - **Movies (SQL, Pset7)** → Complex queries on IMDb datasets [View Code](highlights/movies/movies.sql)  
 - **Finance (Flask, Pset9)** → Stock trading simulation web app [View Project](highlights/finance/)  
-  
+
+## 📁 All Problem Sets (PSets)
+1)
 ## 🛠️ Technologies Used
 - C
 - Python
