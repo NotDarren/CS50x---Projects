@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 This repository contains my solutions and projects for Harvard's CS50x course.  
-It includes both problem sets (psets) and the final project.  
+It includes both problem sets (psets) and the final project. Hope you enjoy my first repo 
 
 ## 🚀 Highlighted Projects
 - **Speller (C, Pset5)** → Hash-table-based spell checker [View Code](highlights/speller/speller.c)  
