@@ -9,10 +9,6 @@ It includes both problem sets (psets) and the final project.
 - **DNA (Python, Pset6)** → DNA profiler using substring matching [View Code](highlights/dna/dna.py)  
 - **Movies (SQL, Pset7)** → Complex queries on IMDb datasets [View Code](highlights/movies/movies.sql)  
 - **Finance (Flask, Pset9)** → Stock trading simulation web app [View Project](highlights/finance/)  
-## 📂 Repository Structure
-- `highlights/` → Best problem sets (resume-ready).  
-- `all_psets/` → Every problem set, organized by week.  
-- `final_project/` → My CS50x final project.
   
 ## 🛠️ Technologies Used
 - C
