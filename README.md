@@ -19,12 +19,12 @@ It includes both problem sets (psets) and the final project.
 
 ## 📁 All Problem Sets (Psets)
 Pset 1:
-- **Mario (C)** → making a pyramid with hash symbol [View Code](highlights/mario/mario.c)
-- **Cash (C)** → figures the minimun amaount of coins for change [View Code](hihglights/cash/cash.c)
-- **Credit (C)** → checks validity of a credit card [View Code](hihglights/credit/credit.c)
+- **Mario (C)** → making a pyramid with hash symbol [View Code](Problem-Sets/mario/mario.c)
+- **Cash (C)** → figures the minimun amaount of coins for change [View Code](Problem-Sets/cash/cash.c)
+- **Credit (C)** → checks validity of a credit card [View Code](Problem-Sets/credit/credit.c)
 
 Pset 2:
-- **Scrabble (C)** → Determines winner of short Scrabble-like game [View Code](highlights/scrabble/scrabble.c)
+- **Scrabble (C)** → Determines winner of short Scrabble-like game [View Code](Problem-Sets/scrabble/scrabble.c)
 
 ---
 ⭐ If you like this repo, give it a star!
