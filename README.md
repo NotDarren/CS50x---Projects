@@ -26,7 +26,8 @@ Pset 1:
 Pset 2:
 - **Scrabble (C)** → Determines winner of short Scrabble-like game [View Code](Problem-Sets/scrabble/scrabble.c)
 - **Readability (C)** → Calculates grade level needed to comprehend some text [View Code](Problem-Sets/readability/readability.c)
-- **Caesar (C)** → Encrypts a plain text with a key [View Code](Problem-Sets/caesar/caesar.c) 
+- **Caesar (C)** → Encrypts a plain text with a number key [View Code](Problem-Sets/caesar/caesar.c)
+- **Substitution (C)** → Encrypts a plain text with a 26 character key [View Code](Problem-Sets/substitution/substitution.c)
 
 ---
 ⭐ If you like this repo, give it a star!
