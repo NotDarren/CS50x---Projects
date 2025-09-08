@@ -29,5 +29,9 @@ Pset 2:
 - **Caesar (C)** → Encrypts a plain text with a number key [View Code](Problem-Sets/caesar/caesar.c)
 - **Substitution (C)** → Encrypts a plain text with a 26 character key [View Code](Problem-Sets/substitution/substitution.c)
 
+Pset 3:
+- **Plurality (C)** → Runs a plurality election [View Code](Problem-Sets/plurality/plurality.c)
+- **Runoff (C)** → Runs an election using ballots [View Code](Problems-Sets/runoff/runoff.c)
+
 ---
 ⭐ If you like this repo, give it a star!
